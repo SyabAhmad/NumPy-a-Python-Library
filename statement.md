@@ -1,9 +1,8 @@
 # Welcome!
 
-This Python template lets you get started quickly with a simple one-page playground.
-
+NumPy  a Python Library
 ```python runnable
-print('Hello World!')
+print('Hello World: we will gonna talk about NumPy  which is a library of Python!')
 ```
 
 # Advanced usage
