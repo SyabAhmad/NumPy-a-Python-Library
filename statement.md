@@ -1,10 +1,16 @@
 # Welcome!
 
 NumPy  a Python Library
+
+
 ```python runnable
 print('Hello World: we will gonna talk about NumPy  which is a library of Python!')
 ```
+
+
 # declaring new array and  printing array elements
+
+
 ```python runnable
 import numpy as np
 print("Numpy library in python")
@@ -13,14 +19,14 @@ data = np.array([1,2,3,4,5,6,7])
 # printing array elements
 print(data)
 ```
+
+
 # adding two arrays
 ```python runnable
 # adding two arrays
 data1 = np.array([7,4,3,2,1,8, 9])
 data3 = data+data1
 print(data3)
-
-
 ```
 
 
