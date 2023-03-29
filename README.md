@@ -10,7 +10,7 @@ print('Hello World: we will gonna talk about NumPy  which is a library of Python
 ```
 
 
-# declaring new array and  printing array elements
+# declaring new array and  printing array elements 1
 
 
 ```python runnable
@@ -18,6 +18,18 @@ import numpy as np
 print("Numpy library in python")
 # declaring new array
 data = np.array([1,2,3,4,5,6,7])
+# printing array elements
+print(data)
+```
+
+# declaring new array and  printing array elements 2
+
+
+```python runnable
+import numpy as np
+print("Numpy library in python")
+# declaring new array
+data = np.array(["Apple", "Oranges", "Grapes", "Banana"])
 # printing array elements
 print(data)
 ```
