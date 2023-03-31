@@ -15,7 +15,7 @@ print('Hello World: we will gonna talk about NumPy  which is a library of Python
 
 ```python runnable
 import numpy as np
-print("Numpy library in python")
+print("Numpy library in Python")
 # declaring new array
 data = np.array([1,2,3,4,5,6,7])
 # printing array elements
