@@ -43,6 +43,15 @@ data3 = data+data1
 print(data3)
 ```
 
+# Copy array
+```python runnable
+data1 = np.array([7,4,3,2,1,8, 9])
+data2 = data1
+print(data2)
+
+```
+
+
 # full is used for creating multi D array of your own choice elements
 ```python runnable
 # full is used for creating multi D array of your own choice elements
