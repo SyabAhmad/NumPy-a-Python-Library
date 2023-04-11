@@ -48,7 +48,11 @@ print(data3)
 data1 = np.array([7,4,3,2,1,8, 9])
 data2 = data1
 print(data2)
+```and```
 
+data1 = np.array([7,4,3,2,1,8, 9])
+data2 = data1.copy()
+print(data2)
 ```
 
 
